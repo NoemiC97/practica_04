@@ -15,7 +15,7 @@ return cadena;
 document.getElementById("hora").innerHTML= muestraHora();
 
 function borrar(){
-document.getElementById("formulario").reset();
+document.getElementById("form").reset();
 }
 
 function calcular(){
